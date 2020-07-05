@@ -8,5 +8,9 @@
   Gatsby's tut
 </h1>
 
-1.  **Learning Gatsby based on Freecodecamp tutorial by Andrew Mead**
+**Learning Gatsby based on Freecodecamp tutorial by Andrew Mead**
 [Gatsby tutorial](https://www.youtube.com/watch?v=kzWIUX3CpuI).
+
+### I'm planning on building an interactive online multiplayer game called **Conecta 4** using Gatsby. 
+
+### So this will be my introduction to the Gatsby's bubble. It's pretty understandable so far 🦾
