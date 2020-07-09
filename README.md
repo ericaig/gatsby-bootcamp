@@ -14,3 +14,5 @@
 ### I'm planning on building an interactive online multiplayer game called **Conecta 4** using Gatsby. 
 
 ### So this will be my introduction to the Gatsby's bubble. It's pretty understandable so far 🦾
+
+[Currently at: 1:28:00](https://youtu.be/kzWIUX3CpuI?t=5281)
