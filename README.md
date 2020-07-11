@@ -15,4 +15,4 @@
 
 ### So this will be my introduction to the Gatsby's bubble. It's pretty understandable so far 🦾
 
-[Currently at: 1:28:00](https://youtu.be/kzWIUX3CpuI?t=5281)
+[Currently at: 2:11:08](https://youtu.be/kzWIUX3CpuI?t=7868)
